@@ -1,0 +1,26 @@
+[
+	{
+		"code": 403,
+		"error": "You received a score of 0 from our analysis. You must have a score of 50 or higher to obtain this stamp."
+	},
+	{
+		"code": 403,
+		"error": "You received a score of 0 from our analysis. You must have a score of 75 or higher to obtain this stamp."
+	},
+	{
+		"code": 403,
+		"error": "You received a score of 0 from our analysis. You must have a score of 90 or higher to obtain this stamp."
+	},
+	{
+		"code": 403,
+		"error": "You have spent 0 ETH on Ethereum gas. You must spend 0.25 ETH on gas to obtain this stamp."
+	},
+	{
+		"code": 403,
+		"error": "You have made 0 transactions on Ethereum. You must make 100 transactions to obtain this stamp."
+	},
+	{
+		"code": 403,
+		"error": "You have been active on Ethereum on 0 distinct days. You must be active for 50 days to obtain this stamp."
+	}
+]
