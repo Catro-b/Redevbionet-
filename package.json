@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@quicknode/sdk": "^2.3.0",
+    "alchemy-sdk": "^3.4.3",
+    "ngrok": "^5.0.0-beta.2",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.13"
+  }
+}
